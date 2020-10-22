@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98dc937e-6956-4b6b-a871-bf850d9317a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/what-season.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/what-season.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jECVQxPoaTCBVi8fUWjixk0FTN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98dc937e-6956-4b6b-a871-bf850d9317a8" name="Default Changelist" comment="" />
+      <created>1603359887563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603359887563</updated>
+      <workItem from="1603359889135" duration="193000" />
+      <workItem from="1603362254593" duration="29000" />
+      <workItem from="1603365703575" duration="1889000" />
+      <workItem from="1603368051636" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl" timestamp="1603362285980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603362285980" />
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1603360089331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603360089331" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1603360089330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603360089330" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1603360089330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603360089330" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1603360089330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603360089330" />
+    <state x="347" y="159" key="run.anything.popup" timestamp="1603366263482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="159" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603366263482" />
+  </component>
+</project>
